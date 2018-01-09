@@ -1,11 +1,12 @@
 {
-  "main.css": "./static/css/main.9b9c9740.css",
-  "main.css.map": "./static/css/main.9b9c9740.css.map",
-  "main.js": "./static/js/main.fd6f616f.js",
-  "main.js.map": "./static/js/main.fd6f616f.js.map",
+  "main.css": "./static/css/main.8dc068eb.css",
+  "main.css.map": "./static/css/main.8dc068eb.css.map",
+  "main.js": "./static/js/main.9beed09f.js",
+  "main.js.map": "./static/js/main.9beed09f.js.map",
   "static\\media\\cinema_bg.jpg": "./static/media/cinema_bg.725e9584.jpg",
   "static\\media\\codadrink.png": "./static/media/codadrink.28457ba0.png",
   "static\\media\\pocorns.png": "./static/media/pocorns.301c3a2b.png",
   "static\\media\\rate_star.svg": "./static/media/rate_star.bc18e89f.svg",
-  "static\\media\\substitute_movie.jpg": "./static/media/substitute_movie.1ef88dae.jpg"
+  "static\\media\\substitute_movie.jpg": "./static/media/substitute_movie.1ef88dae.jpg",
+  "static\\media\\tv_bg.jpg": "./static/media/tv_bg.79ed2f8b.jpg"
 }
